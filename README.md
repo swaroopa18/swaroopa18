@@ -1,0 +1,2 @@
+- 👋 Hi, I’m Swaroopa Reddy 
+- 👀 I’m interested in learning full stack development. Thrive to learn the best practices in the industry.
